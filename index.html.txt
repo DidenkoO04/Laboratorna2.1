@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя Лабораторна 2.1</title>
+</head>
+<body>
+    <h1>Дані оновлено! Це головна сторінка.</h1>
+    <p>Я успішно розгорнув свій проєкт на Vercel.</p>
+</body>
+</html>
